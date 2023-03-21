@@ -105,11 +105,5 @@ dist
 
 .hintrc
 .eslintrc.json
-        .github/
-        .stylelintrc.json
-        .vscode/
-        LICENSE
-
-
-        package-lock.json
-        package.json
+package-lock.json
+package.json
