@@ -107,3 +107,7 @@ dist
 .eslintrc.json
 package-lock.json
 package.json
+.github/
+.stylelintrc.json
+.vscode/
+LICENSE
